@@ -32,7 +32,7 @@ ssh ec2-user@35.176.28.196 -p 2222 python < ./output_ec2_metadata_to_json.py
 cat output_ec2_metadata_to_json.py | ssh ec2-user@35.176.28.196 -p 2222 python â€“
 
 ##### Output:
-
+```
 {
     "meta-data": {
         "ami-id": "ami-0bcc92a4e661446c1",
@@ -153,6 +153,6 @@ cat output_ec2_metadata_to_json.py | ssh ec2-user@35.176.28.196 -p 2222 python â
         }
     }
 }
-
+```
 
 
