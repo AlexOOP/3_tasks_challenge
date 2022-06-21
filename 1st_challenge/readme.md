@@ -4,21 +4,21 @@
 
 #### 1. Destination: /home/alex/terraform-test/3-tier-app-provosion_copy
 
-![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/images/1-1.png)
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/1-1.png)
 
 ##### Used Terraform version - terraform014.
 
-![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/images/1-2.png)
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/1-2.png)
 
 
 
-![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/images/1-3.png)
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/1-3.png)
 
 
 
-![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/images/1-4.png)
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/1-4.png)
 
 
 
-![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/images/1-5.png)
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/1-5.png)
 
