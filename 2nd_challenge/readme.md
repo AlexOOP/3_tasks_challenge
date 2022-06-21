@@ -28,8 +28,8 @@ ansible testserver -m command -a "curl http://169.254.169.254/latest/meta-data/m
 Destination: /home/alex/Bash/
 
 Used commands:
-ssh ec2-user@35.176.28.196 -p 2222 python < ./output_ec2_metadata_to_json.py
-cat output_ec2_metadata_to_json.py | ssh ec2-user@35.176.28.196 -p 2222 python –
+ssh ec2-user@35.176.28.196 -p 22 python < ./output_ec2_metadata_to_json.py
+cat output_ec2_metadata_to_json.py | ssh ec2-user@35.176.28.196 -p 22 python –
 
 ##### Output:
 ```

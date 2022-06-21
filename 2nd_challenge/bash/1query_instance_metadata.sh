@@ -8,7 +8,7 @@
 USERNAME="ec2-user"
 IP="$1"
 PATHTODIR="${2:-'meta-data'}"
-#pass=6EDgbm1I9N
+
 
 MaxThread=1
 ###################################################
