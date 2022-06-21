@@ -1,20 +1,8 @@
-## Module 7 Python
+## 3rd Task
  
-### TASK 7.1
+### We have a nested object, we would like a function that you pass in the object and a key and get back the value. How this is implemented is up to you.
 
-#### 1. At first I developed fizzbuzz function for list of numbers from 1 to 100.
+#### 1. Destination: D:\Alex\Study\DevOps\3_tasks_challenge\3_tasks_challenge\3rd_challenge
 
-![Image of Yaktocat](https://github.com/AlexOOP/DevOps_online_Kiyv_2020Q3Q4/blob/master/m7/task7.1/images/2020-10-08_23h33_07.png)
-
-##### Then I added Unit Tests for this function.
-
-![Image of Yaktocat](https://github.com/AlexOOP/DevOps_online_Kiyv_2020Q3Q4/blob/master/m7/task7.1/images/2020-10-14_15h28_03.png)
-
-#### 2. Next I developed a function for counting vowels in input text. 
-
-![Image of Yaktocat](https://github.com/AlexOOP/DevOps_online_Kiyv_2020Q3Q4/blob/master/m7/task7.1/images/2020-10-08_23h10_00.png)
-
-
-
-![Image of Yaktocat](https://github.com/AlexOOP/DevOps_online_Kiyv_2020Q3Q4/blob/master/m7/task7.1/images/2020-10-08_23h14_27.png)
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/3-1.png)
 
