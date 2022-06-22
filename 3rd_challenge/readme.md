@@ -6,3 +6,8 @@
 
 ![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/3-1.png)
 
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/3-2.png)
+
+![Image of Yaktocat](https://github.com/AlexOOP/3_tasks_challenge/blob/master/images/3-3.png)
+
+
